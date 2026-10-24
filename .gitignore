@@ -1,0 +1,10 @@
+# Private application material (CV, covering email, application copy of the PDF)
+application/
+scripts/build_cv.py
+
+# Vendor price downloads; regenerate with scripts/fetch_prices.py
+data/
+
+.DS_Store
+__pycache__/
+.venv/
