@@ -1,5 +1,7 @@
 # Long Star Bulk: in a commodity, stewardship is the franchise
 
+[Project one-pager (PDF)](docs/project-brief.pdf) · [Editable brief](docs/project-brief.md)
+
 **A two-page long thesis on Star Bulk Carriers (Nasdaq: SBLK), with every number reproducible
 from public filings and a vessel-level valuation model.** Dated snapshot: 23 October 2026 close.
 
